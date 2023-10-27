@@ -5,5 +5,10 @@ public class Students {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void fixIssue53() {
+		System.out.println("Fixed error 53");
+		
+	}
 
 }
